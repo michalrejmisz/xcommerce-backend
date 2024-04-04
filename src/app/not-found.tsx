@@ -1,9 +1,9 @@
 import Image from "next/image";
 
-export default function Home() {
+export default function NotFound() {
     return (
         <main className="flex min-h-screen flex-col items-center justify-between p-24">
-            Wykop
+            Nie znaleziono xD
         </main>
     );
 }
